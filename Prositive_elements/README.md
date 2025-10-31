@@ -25,3 +25,24 @@ count_positive - целое число, счетчик элементов
 Вывод:
 
 ![alt text](image.png)
+
+Вход: N = 4, A = [-1, -2, -3, 0]
+Ожидаемый результат: sum = 0, count = 0
+
+Вывод:
+
+![alt text](image-1.png)
+
+Вход: N = 3, A = [1, 2, 3]
+Ожидаемый результат: sum = 6, count = 3
+
+Вывод:
+
+![alt text](image-2.png)
+
+Вход: N = 0, A = []
+Ожидаемый результат: sum = 0, count = 0
+
+Вывод:
+
+![alt text](image-3.png)
